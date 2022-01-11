@@ -2,6 +2,10 @@
 
 - Although the shorten url will seem to be a long one :-) as backend API is deployed on heroku, but it's just for development/project purpose.
 
+- Test Credentails to login -
+  Email: adidaspdoshii@gmail.com |
+  Password - test123
+
 ### Tech stack used -
 
 - React JS -
